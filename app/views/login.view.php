@@ -48,7 +48,7 @@
 
                     </form>
 
-                    <p>Don't Have an Account Yet? <a href="/register" class="inline-link">Sign up</a> </p>
+                    <p>Don't Have an Account Yet? <a href="/Signature_cuising/register" class="inline-link">Sign up here</a> </p>
                 </div>
 
             </div>
